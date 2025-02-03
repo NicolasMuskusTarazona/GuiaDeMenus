@@ -14,3 +14,7 @@ La alimentación vegetariana es aquella que excluye el consumo intencionado de c
 - Agua de chía.
 - Batido nutritivo de chocolate.
 - Chicha andina.
+
+## Consejos
+- Elige una buena variedad de alimentos vegetales saludables.
+- Reduce las opciones menos saludables, como las bebidas endulzadas con azúcar.
