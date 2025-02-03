@@ -14,3 +14,7 @@ Bajo esta denominación se incluyen a la parte muscular de todo animal comestibl
 - Pozol.
 - S.Pellegrino.
 - Corona.
+
+## Consejos
+- Si consume carnes rojas, escoger los cortes más magros, servir porciones de tamaño moderado y consumir solo ocasionalmente.
+- Una pauta general es consumir entre 2 y 3 porciones de carne a la semana, siendo una porción aproximadamente del tamaño de la palma de tu mano.
