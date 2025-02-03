@@ -9,3 +9,8 @@ Sencillez y autenticidad: La cocina italiana se caracteriza por su simplicidad y
 - **Lasaña**: Esta pasta cortada en láminas es otro de los platos estrella de la cocina italiana. Cada región italiana prepara diferentes versiones de lasagna. Las láminas se rellenan de bechamel y carne, pescado o verdura. Fundamental el queso gratinado que la suele cubrir y que le da un toque de lo más apetitoso.
 
 - **Risotto**: Los ingredientes del risotto clásico son el arroz y queso parmesano. Es una comida originaria del noroeste italiano (Piamonte, Lombardía y Verona). La primera receta que se conoce data de finales del siglo XIX. En la actualidad hay multitud de variantes que admiten una buena variedad de ingredientes, como pueden ser espinacas, calabacín, mariscos, espárragos, boletus, calabaza, etc.
+
+## Bebidas Recomendadas
+- Vino tinto Chianti.
+- Agua con gas.
+- Limoncello como digestivo.
