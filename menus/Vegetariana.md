@@ -9,3 +9,8 @@ La alimentación vegetariana es aquella que excluye el consumo intencionado de c
 - **Tostadas Vegetarianas con Aderezo de Hummus**: Prueba estas deliciosas tostadas de vegetales con el aderezo de hummus, complementan perfectamente tu dieta, debido a la variedad de vegetales que contiene.
 
 - **Risotto de Amaranto y Hongos**: Este platillo original de risotto base de amaranto con hongos es calientito y reconfortante. El sabor del amaranto combinado con los hongos y las setas y lo cremoso de la leche de almendras y el queso parmesano para veganos con un toque de arúgula fresca hará de este platillo tu fascinación.
+
+## Bebidas Recomendadas
+- Agua de chía.
+- Batido nutritivo de chocolate.
+- Chicha andina.
