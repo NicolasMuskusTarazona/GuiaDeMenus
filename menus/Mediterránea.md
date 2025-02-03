@@ -14,3 +14,7 @@ Se centra en comer alimentos como frutas, verduras, hortalizas, granos integrale
 - Zumo de naranjas valencianas.
 - Sangría.
 - Horchata.
+
+## Consejos
+- Utilizar el aceite de oliva como principal grasa de adición
+- La carne roja se tendría que consumir con moderación y si puede ser como parte de guisos y otras recetas.
