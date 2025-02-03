@@ -14,3 +14,7 @@ Se le da un sentido del gusto con las artes culinarias basándose en la belleza 
 - Whisky con té verde
 - Té con leche y tapioca.
 - Vino Osmanthus.
+
+## Consejos
+- Evita las grasas, la sal y el exceso de carbohidratos
+- coger el cuenco con el pulgar en la boca, el índice, el corazón y el tercer dedo apoyando el fondo del cuenco y con la palma vacía
