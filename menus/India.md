@@ -14,3 +14,7 @@ se caracteriza por ser colorida, de sabores y aromas variados. En muchos países
 - Nimbu Pani
 - Lassi de mango
 - Masala Chai
+
+## Consejos
+- La comida debería ser recogida durante la ingesta con los dedos y llevada a directamente a la boca
+- se disfrutan junto a los platos principales, que, para los no vegetarianos, serían brochetas de pollo, pescado o cordero, o curry.
