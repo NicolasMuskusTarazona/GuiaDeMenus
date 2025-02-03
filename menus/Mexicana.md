@@ -9,3 +9,8 @@ Es el conjunto de platillos y técnicas culinarias de México que forman parte d
 - **Tacos**: Incluso es posible encontrarlo en diferentes partes del mundo debido a su popularidad. El taco es una tortilla de maíz rellena con cualquier tipo de alimento, por eso hay de varios sabores.
 
 - **Chilaquiles**: Son pequeñas tortillas de maíz triangulares que tienen una salsa picante hecha con chiles rojos o verdes.
+
+## Bebidas Recomendadas
+- Tequila.
+- Mezcal.
+- Michelada.
