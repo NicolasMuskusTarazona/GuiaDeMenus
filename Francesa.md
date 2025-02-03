@@ -14,3 +14,7 @@ La gastronomía de Francia está caracterizada por su variedad, fruto de la dive
 - La cerveza.
 - Pastis.
 - Calvados.
+
+## Consejos
+- Terminar siempre con una nota alta.
+- El queso viene después de la cena, no antes.
