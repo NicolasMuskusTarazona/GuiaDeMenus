@@ -9,3 +9,8 @@ Comida dulce que se consume al final de una comida. Por lo general, se sirve des
 - **Gelato**: La diferencia entre este postre y el helado son los productos. Para preparar gelato se utilizan productos 100% naturales y no tienen tanta grasa ni azúcar como el helado, además son mucho más cremosos. Si aún no has probado un gelato, no dudes en hacerlo y date un gustito.
 
 - **Tiramisú**:Es otro postre frío de origen italiano y está hecho a base de café, licor y crema. Su preparación es sencilla, solo hay que humedecer un bizcocho con una mezcla de café y licor y superponerlo en capas, alternando entre la crema y el bizcocho
+
+## Bebidas Recomendadas
+- Café.
+- Vinos espumosos.
+- Martini de menta.
