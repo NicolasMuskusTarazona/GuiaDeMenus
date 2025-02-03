@@ -14,3 +14,7 @@ Es el conjunto de platillos y técnicas culinarias de México que forman parte d
 - Tequila.
 - Mezcal.
 - Michelada.
+
+## Consejos
+- No intercambian cuchillos y tenedores. El cuchillo permanece en la mano derecha y la mano izquierda en la izquierda.
+- Las comidas saben mejor si les agregas limón.
