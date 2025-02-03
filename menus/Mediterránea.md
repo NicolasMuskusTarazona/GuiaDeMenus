@@ -9,3 +9,8 @@ Se centra en comer alimentos como frutas, verduras, hortalizas, granos integrale
 - **Frescura y Sabor en Cada Bocado: Frutas y Verduras Mediterráneas**: Las frutas y verduras frescas son la piedra angular de la dieta mediterránea. Descubre cómo se preparan y cómo añaden color y sabor a los platos mediterráneos.
 
 - **Pescado Fresco: El Secreto del Mediterráneo**: El pescado es una fuente principal de proteínas en la comida mediterránea. Aprende sobre los pescados más populares y las deliciosas formas en que se preparan.
+
+## Bebidas Recomendadas
+- Zumo de naranjas valencianas.
+- Sangría.
+- Horchata.
