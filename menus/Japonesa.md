@@ -9,3 +9,8 @@ Sencillez y elegancia en cada plato. La presentación es siempre muy cuidada y t
 - **Ramen**:Fideos chinos delgados servidos en caldo de cerdo, ternera, bonito
 
 - **Sushi**:El manjar tradicional japonés más conocido a causa de la proliferación de los restaurantes japoneses. Son platos a base de pescado crudo, a menudo cortado finamente.
+
+## Bebidas Recomendadas
+- Fanta.
+- Ramune.
+- Té verde.
