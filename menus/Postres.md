@@ -14,3 +14,7 @@ Comida dulce que se consume al final de una comida. Por lo general, se sirve des
 - Café.
 - Vinos espumosos.
 - Martini de menta.
+
+## Consejos
+- Los postres se toman con cucharita, por ejemplo: helado, sorbetes, mousses, y macedonias. Con tenedor los siguientes: tortas, bizcochuelos, panqueques y similares
+- Los postres tienen bastantes carbohidratos en tan solo una pequeña porción
