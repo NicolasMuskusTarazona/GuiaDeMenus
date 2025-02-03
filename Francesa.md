@@ -8,4 +8,9 @@ La gastronomía de Francia está caracterizada por su variedad, fruto de la dive
 
 - **Soupe de Poisson**:El origen de estos platos suele ser de pescadores y se ha ido perfeccionando en casa ya sea colando y usando desde la espina hasta la cabeza del pescado, añadiendo la famosa rouille que encontrarás en Douce France (mayonesa al ajo con azafrán) o toques de vino blanco para mejorar el sabor.
 
-- **Le pot-au-feu**:Carne de buey o ternera, verdudas típicas de invierno tales como la zanahoria, el puerros o el nabo y un bouquet de hierbas que contenga una buen mezcla de tomillo, laurel y perejil
+- **Le pot-au-feu**:Carne de buey o ternera, verdudas típicas de invierno tales como la zanahoria, el puerros o el nabo y un bouquet de hierbas que contenga una buen mezcla de tomillo, laurel y perejilç
+
+## Bebidas Recomendadas
+- La cerveza.
+- Pastis.
+- Calvados.
