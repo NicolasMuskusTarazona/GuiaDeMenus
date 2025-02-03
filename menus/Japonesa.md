@@ -14,3 +14,7 @@ Sencillez y elegancia en cada plato. La presentación es siempre muy cuidada y t
 - Fanta.
 - Ramune.
 - Té verde.
+
+## Consejos
+- Cada pieza de sushi se debe comer de un bocado, sin morderlo por trozos o sin utilizar los cubiertos para cortarlo.
+- La mayoría de los restaurantes de Japón sirven los platos con palillos o o-hashi.
